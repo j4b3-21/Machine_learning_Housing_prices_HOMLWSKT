@@ -59,9 +59,10 @@ This project demonstrates the **typical workflow of a machine learning project**
 
 ## 🤝 Connect with Me
 If you’re also working on ML projects, feel free to connect:  
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bhuvan-m-acharya-7b9256335/))  
+- [LinkedIn](https://www.linkedin.com/in/bhuvan-m-acharya-7b9256335/)
 - [GitHub](https://github.com/j4b3-21)  
 
 ---
 
 ⭐ If you found this helpful, don’t forget to star the repo!
+
